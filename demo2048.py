@@ -3,7 +3,7 @@ import random
 
 class Game2048:
     print("1")
-    '''
+'''
     def __init__(self, master):
         self.master = master
         self.master.title("2048")
@@ -122,4 +122,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     game = Game2048(root)
     root.mainloop()
-    '''
+'''
