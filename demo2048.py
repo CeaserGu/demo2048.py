@@ -2,7 +2,7 @@ import tkinter as tk
 import random
 
 class Game2048:
-    print("hello world")
+
     def __init__(self, master):
         self.master = master
         self.master.title("2048")
